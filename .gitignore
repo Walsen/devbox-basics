@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate*
+*.tfplan
+.devbox
+.venv
+.git
+.idea
+*.hcl
+
